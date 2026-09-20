@@ -4,6 +4,7 @@ To simulate a RC Pase Shift Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="530" height="418" alt="ec exp 6 phase shift" src="https://github.com/user-attachments/assets/adcb41de-91e6-4177-af76-03421ab31c56" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +40,11 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+    <img width="974" height="1600" alt="ec 6 ps cal1" src="https://github.com/user-attachments/assets/2df9aaf4-e408-451e-b8c1-798bd4be2d32" />
+<img width="1334" height="1600" alt="ec 6 ps cal2" src="https://github.com/user-attachments/assets/5ee957c8-9746-43b6-8557-e029a26bae04" />
+
 37.	## OUTPUTS:
+<img width="1911" height="1008" alt="ec exp 6 phase shift" src="https://github.com/user-attachments/assets/149c4a09-d67b-4927-8368-4913bfa9f320" />
 
 38.	## RESULT:
+<img width="1600" height="657" alt="ec 6 ps res" src="https://github.com/user-attachments/assets/2a0990df-e624-43f4-9fc8-5039e5b9486e" />
